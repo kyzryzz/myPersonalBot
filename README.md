@@ -14,7 +14,7 @@ bot whatsapp personal can also public, type `case`
 - [`xyzencode`](https://github.com/xyzencode) Adriannn ( sengpuh 🥶 )
 - [`RullZy`](https://github.com/rlzyy) RullZy ( my friend )
 - [`Michael`](https://github.com/michaeljerrr) Michaell ( my friend )
-- [`KyzRyzz`](https://github.com/kyzryzz) ( the script's develop )
+- [`KyzRyzz`](https://github.com/kyzryzz) KyzRyzz ( the script's develop )
 
 without them this script is nothing, thank you to them 💫
 
