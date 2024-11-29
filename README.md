@@ -1,1 +1,1 @@
-# myPersonalBot
+## BOT READXREACT SW X UPCH X TELE
