@@ -4,7 +4,10 @@ bot whatsapp personal can also public, type `case`
 ## Feature
 - Read x React Story WhatsApp
 - Support CH
-- Telegram_bot
+- Telegram bot
+- Downloader
+- YTDL
+- DDoS (it doesn't seem to work) 
 
 ## Thank you to those who have helped me ✨
 
