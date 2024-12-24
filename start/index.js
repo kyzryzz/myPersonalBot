@@ -52,7 +52,9 @@ const mongoDB = require('./lib/mongoDB');
 const FileType = require('file-type') 
 const path = require('path') 
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/exif');
+const lodash = require('lodash') 
 
+const { chain } = lodash
 const opts = yargs(process.argv.slice(2)).exitProcess(false).parse();
 const dbPath = './database.json';
 let db;
@@ -89,7 +91,7 @@ others: {},
 sticker: {},
 ...(global.db.data || {})
 };
-global.db.chain = _.chain(global.db.data);
+global.db.chain = chain(global.db.data);
 }
 
 global.loadDatabase();
