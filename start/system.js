@@ -319,12 +319,12 @@ Kyzz.sendMessage(m.chat, { text : wow, contextInfo: {
                 externalAdReply: {
                 title: footer, 
                 body: "Powered By Kyzryzz", 
-                sourceUrl: "https://wa.me/", 
+                sourceUrl: "https://wa.me/6285921655444", 
                 thumbnailUrl: global.thumb, 
                 renderLargerThumbnail: true, 
                 }}},{quoted:fkontak})
 }
-bbrea
+break
         
 /* # TOOLS # */
 case"p":
